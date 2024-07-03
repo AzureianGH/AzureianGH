@@ -1,16 +1,21 @@
-## Hi there 👋
+## Bonjour!
 
-<!--
-**AzureianGH/AzureianGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👂 My name is Nathan
+- 😄 My pronouns are He/Him
+- 🔭 I’m currently working on LibHydrix and GuardianOS
+- 🌱 I’m currently learning about Operating System Development
+- 🤔 I’m looking for help with making LibHydrix more efficient
+- 💬 Ask me about anything!
+- 📫 Reach me on Discord @: azureian
+- ⚡ Fun fact: My birthday is in April
 
-Here are some ideas to get you started:
+### My Rating
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![WilliamKarolDiCioccio's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AzureianGH&show_icons=true&theme=dark)](https://github.com/AzureianGH)
+
+### My Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzureianGH&layout=compact&theme=dark)
+
+---
