@@ -12,10 +12,10 @@
 ### My Rating
 
 
-[![WilliamKarolDiCioccio's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AzureianGH&show_icons=true&theme=dark)](https://github.com/AzureianGH)
+[![WilliamKarolDiCioccio's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AzureianGH&show_icons=true&theme=synthwave)](https://github.com/AzureianGH)
 
 ### My Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzureianGH&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzureianGH&theme=synthwave)
 
 ---
