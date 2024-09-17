@@ -1,7 +1,7 @@
 ## Bonjour!
 
 - 👂 My name is Nathan
-- 😄 My pronouns are He/Him
+- 😄 My pronouns are He/Him (They/Them is okay too if you're unsure)
 - 🔭 I’m currently working on LibHydrix and GuardianOS
 - 🌱 I’m currently learning about Operating System Development
 - 🤔 I’m looking for help with making LibHydrix more efficient
