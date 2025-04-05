@@ -2,9 +2,9 @@
 
 - 👂 My name is Nathan
 - 😄 My pronouns are He/Him (They/Them is okay too if you're unsure)
-- 🔭 I’m currently working on LibHydrix and GuardianOS
+- 🔭 I’m currently working on StarElf
 - 🌱 I’m currently learning about Operating System Development
-- 🤔 I’m looking for help with making LibHydrix more efficient
+- 🤔 I’m looking for help StarElf!
 - 💬 Ask me about anything!
 - 📫 Reach me on Discord @: azureian
 - ⚡ Fun fact: My birthday is in April
@@ -23,7 +23,7 @@
 ---
 
 ### Some of my repositories!
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azureiangh&repo=starelf&theme=synthwave)](https://github.com/azureiangh/starelf)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aquanite&repo=libhydrix&theme=synthwave)](https://github.com/aquanite/libhydrix)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azureiangh&repo=guardianos&theme=synthwave)](https://github.com/azureiangh/guardianos)
 ---
 
