@@ -1,10 +1,10 @@
 ## Bonjour!
 
 - 👂 My name is Nathan
-- 😄 My pronouns are He/Him (They/Them is okay too if you're unsure)
-- 🔭 I’m currently working on StarElf
-- 🌱 I’m currently learning about Operating System Development
-- 🤔 I’m looking for help StarElf!
+- 😄 My pronouns are He/Him
+- 🔭 I’m currently working on B/
+- 🌱 I’m currently learning about CPU design and architecture
+- 🤔 I’m looking for help with code review!
 - 💬 Ask me about anything!
 - 📫 Reach me on Discord @: azureian
 - ⚡ Fun fact: My birthday is in April
